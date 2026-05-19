@@ -17,15 +17,11 @@ I love building projects that challenge my brain and destroy my sleep schedule �
 
 <p align="left">
 
-✨ Currently diving deep into <b>DevOps</b> and <b>Generative AI</b>.
-
-👩‍💻 Worked at <b>DRDO, New Delhi</b> as a <b>Quantum Machine Learning Intern</b>.
-
-🏅 Awarded <b>Best Student Presenter</b> at the <b>International Conference of Mathematical Science and Computational Intelligence</b>.
-
-⚛️ Exploring the world of <b>Quantum Computing</b>, <b>Cybersecurity</b>, and <b>AI</b>.
-
-☕ Fun Fact: I run on coffee, curiosity, and questionable sleep schedules 😭
+✨ Currently diving deep into <b>DevOps</b> and <b>Generative AI</b>.<br>
+👩‍💻 Worked at <b>DRDO, New Delhi</b> as a <b>Quantum Machine Learning Intern</b>.<br>
+🏅 Awarded <b>Best Student Presenter</b> at the <b>International Conference of Mathematical Science and Computational Intelligence</b>.<br>
+⚛️ Exploring the world of <b>Quantum Computing</b>, <b>Cybersecurity</b>, and <b>AI</b>.<br>
+☕ <b>Fun Fact:</b> I run on coffee, curiosity, and questionable sleep schedules 😭
 
 </p>
 
@@ -41,40 +37,27 @@ I love building projects that challenge my brain and destroy my sleep schedule �
 <h2 align="center">🚀 Tech Stack</h2>
 
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
-<img width="15" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
-<img width="15" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
-<img width="15" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
-<img width="15" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
-<img width="15" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo" />
-<img width="15" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo" />
-<img width="15" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="tailwind logo" />
-<img width="15" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
-<img width="15" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
-<img width="15" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
 
 <h2 align="center">👾 Contribution Graph</h2>
 
