@@ -69,14 +69,6 @@ I love building projects that challenge my brain and destroy my sleep schedule �
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ishani1204/Ishani1204/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Ishani1204&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
 <h2 align="center">🌐 Let's Connect</h2>
 
 <div align="center">
