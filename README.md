@@ -25,15 +25,6 @@ I love building projects that challenge my brain and destroy my sleep schedule �
 
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ishani1204&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishani1204&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ishani1204&layout=compact&theme=tokyonight" height="170"/>
-
-</div>
-
 <h2 align="center">🚀 Tech Stack</h2>
 
 <div align="center">
